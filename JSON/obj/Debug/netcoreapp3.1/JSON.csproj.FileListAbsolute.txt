@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.exe
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.deps.json
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.json
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.dll
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\JSON.pdb
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.dll
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.pdb
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\JSON\JSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\JSON\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.CopyComplete
